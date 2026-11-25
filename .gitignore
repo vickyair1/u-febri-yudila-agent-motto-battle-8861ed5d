@@ -1,0 +1,5 @@
+kit/
+kit.tar.gz
+bundle*.tar.gz
+RULES-brief.txt
+__pycache__/
